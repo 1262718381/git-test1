@@ -11,5 +11,6 @@ public class GitTest {
 
     public void test(){
         System.out.println(1+1);
+        System.out.println("hello git");
     }
 }
